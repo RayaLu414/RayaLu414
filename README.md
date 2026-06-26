@@ -1,6 +1,6 @@
 ## Hi, I'm Raya 👋
 
-**Student** · Learning by building. 哈哈哈哈哈哈哈，嘻嘻嘻，这是来自adam的feature
+**Student** · Learning by building. 哈哈哈哈哈哈哈，嘻嘻嘻，这是来自adam的feature测试fetch
 
 ---
 
