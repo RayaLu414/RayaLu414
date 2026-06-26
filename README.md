@@ -1,6 +1,6 @@
 ## Hi, I'm Raya 👋
 
-**Student** · Learning by building. 哈哈哈哈哈哈哈
+**Student** · Learning by building. 哈哈哈哈哈哈哈，嘻嘻嘻
 
 ---
 
